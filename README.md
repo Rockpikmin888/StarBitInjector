@@ -1,4 +1,5 @@
 # StarBitInjector
+StarBitInjector V0.1 (Working on Kernel Features, may take some time however)
 This is a C# project that injects a dll into a process utilizing IntPtrs.
 This program gets all currently running processes and adds them to a directory.
 If this works, the console spits out all the processes and their correlating numbers.
