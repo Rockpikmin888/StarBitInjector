@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "StarBitInjector\/1.0.0": {
+      "StarBitInjector/1.0.0": {
         "dependencies": {
           "MinHook.NET": "1.1.1",
           "SharpKernel": "1.0.0"
@@ -15,17 +15,17 @@
           "StarBitInjector.dll": {}
         }
       },
-      "MinHook.NET\/1.1.1": {
+      "MinHook.NET/1.1.1": {
         "runtime": {
-          "lib\/net45\/MinHook.NET.dll": {
+          "lib/net45/MinHook.NET.dll": {
             "assemblyVersion": "1.1.1.0",
             "fileVersion": "1.1.1.0"
           }
         }
       },
-      "SharpKernel\/1.0.0": {
+      "SharpKernel/1.0.0": {
         "runtime": {
-          "lib\/net40\/SharpKernel.dll": {
+          "lib/net40/SharpKernel.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -34,23 +34,23 @@
     }
   },
   "libraries": {
-    "StarBitInjector\/1.0.0": {
+    "StarBitInjector/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MinHook.NET\/1.1.1": {
+    "MinHook.NET/1.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-k+cLk84AxAAiOB\/qBLT80p6\/y9g8jXGzhLtxRwfbyNR1opxOYOmQWv+v58hQ2xyT+xkNM8GVhY1VTLuPTwP8kw==",
-      "path": "minhook.net\/1.1.1",
+      "sha512": "sha512-k+cLk84AxAAiOB/qBLT80p6/y9g8jXGzhLtxRwfbyNR1opxOYOmQWv+v58hQ2xyT+xkNM8GVhY1VTLuPTwP8kw==",
+      "path": "minhook.net/1.1.1",
       "hashPath": "minhook.net.1.1.1.nupkg.sha512"
     },
-    "SharpKernel\/1.0.0": {
+    "SharpKernel/1.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-\/QR\/q8tAWGzKw7EPSKpbn\/831EhqXhE6nvAgw2MmDuwhTzCJc3BCa8Ze+k4T4CzgnOSpUYyFFOpmMw\/Gose7Og==",
-      "path": "sharpkernel\/1.0.0",
+      "sha512": "sha512-/QR/q8tAWGzKw7EPSKpbn/831EhqXhE6nvAgw2MmDuwhTzCJc3BCa8Ze+k4T4CzgnOSpUYyFFOpmMw/Gose7Og==",
+      "path": "sharpkernel/1.0.0",
       "hashPath": "sharpkernel.1.0.0.nupkg.sha512"
     }
   }
